@@ -1,4 +1,4 @@
-# Washing-Machine
+# Washing_Machine
 Washing Machine Controller using Verilog
 
 Description
